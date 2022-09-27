@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sem título</title>
+<link href="favicon_io/favicon-16x16.png" rel="icon">
+<link href="../estilo.css" rel="stylesheet">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body id="bg">
+<header id="topo">
+	<nav id="menu">
+    <a href="index.html">Início</a>
+    <a href="gravacao.html">Gravação</a>
+    <a href="mixmaster.html">Mix/Master</a>
+    <a href="beats.html">Beats</a>
+    <a href="videoclipes.html">Vídeo Clipes</a>
+    <a href="distribuicaodigital.html">Distribuição Digital</a>
+    <a href="mktdigital.html">Marketing Digital & Impulsionamento</a>
+    <a href="playlists.html">Playlists</a>
+    <a href="contato.html">Contato</a>
+    </nav>
+		<div id="logo">
+	<img src="../imgs/logonovodarj.png" alt="Logo" title="Logo">
+	<div id="imagem">
+		<img src="../imgs/arquivos/banner.jpg" alt="Favela&Piano" title="Favela&Piano">
+	</div>
+	</div>
+	<div class="blank">
+    <div class-="links"><b>
+	siga nossas redes sociais:
+	</b>
+		<div class="icones">
+		<a href="https://www.facebook.com/daarearj" target="_blank">
+		<img src="../imgs/linkslogos/facebook.png" alt="Facebook" title="Facebook">
+        </a>
+		<a href="https://www.instagram.com/daarearj" target="_blank">
+    	<img src="../imgs/linkslogos/instagram.png" alt="Instagram" title="Instagram">
+		</a>
+		<a href="https://twitter.com/DaareaRJ" target="_blank">
+		<img src="../imgs/linkslogos/twitter.png" alt="Twitter" title="Twitter">
+		</a>
+		<a href="https://soundcloud.com/daarearj" target="_blank">
+		<img src="../imgs/linkslogos/soundcloud.png" alt="Soundcloud" title="Soundcloud">
+		</a>
+		<a href="https://www.youtube.com/channel/UCD4to51oOgeONWXPBgOcpTQ" target="_blank">
+		<img src="../imgs/linkslogos/youtube.png" alt="Youtube" title="Youtube">
+		</a>
+		<a href="https://open.spotify.com/artist/3bFWviDYBQ8sDsTDpf3tcK?si=-M-rO1V7Tv-6XWW8j04aVw" target="_blank">
+		<img src="../imgs/linkslogos/spotify.png" alt="Spotify" title="Spotify">
+		</a>
+		<a href="https://api.whatsapp.com/send?phone=5521980958408&text=Ol%C3%A1!%20Pode%20me%20ajudar%3F" target="_blank">
+		<img src="../imgs/linkslogos/whatsapp.png" alt="Whatsapp" title="Whatsapp">
+	    </a>
+	    </div>
+	</div>
+	</div>
+</header>
+
+	<main id="conteudo">
+	<!-- TemplateBeginEditable name="Main DARJ" -->Main DARJ<!-- TemplateEndEditable -->
+	</main>
+
+	<footer><b>Contato:<br>daarearj@gmail.com | +55 (21) 98095-8408</b>
+		</footer>
+</body>
+</html>
